@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "mapas_flutter" "\0"
+            VALUE "FileDescription", "map_flutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "mapas_flutter" "\0"
+            VALUE "InternalName", "map_flutter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "mapas_flutter.exe" "\0"
-            VALUE "ProductName", "mapas_flutter" "\0"
+            VALUE "OriginalFilename", "map_flutter.exe" "\0"
+            VALUE "ProductName", "map_flutter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

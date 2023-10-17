@@ -1,1 +1,1 @@
-export 'map_page.dart';
+export '../pages/map_page.dart';

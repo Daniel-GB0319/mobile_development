@@ -1,6 +1,6 @@
 {
-    "name": "mapas_flutter",
-    "short_name": "mapas_flutter",
+    "name": "map_flutter",
+    "short_name": "map_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
